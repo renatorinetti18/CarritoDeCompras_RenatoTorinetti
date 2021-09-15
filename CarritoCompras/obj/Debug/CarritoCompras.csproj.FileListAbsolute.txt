@@ -1,0 +1,7 @@
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\bin\Debug\CarritoCompras.exe.config
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\bin\Debug\CarritoCompras.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\bin\Debug\CarritoCompras.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\obj\Debug\CarritoCompras.csproj.AssemblyReference.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\obj\Debug\CarritoCompras.csproj.CoreCompileInputs.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\obj\Debug\CarritoCompras.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\CarritoCompras\obj\Debug\CarritoCompras.pdb
