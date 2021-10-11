@@ -1,0 +1,7 @@
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\bin\Debug\Volador.exe.config
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\bin\Debug\Volador.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\bin\Debug\Volador.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\obj\Debug\Volador.csproj.AssemblyReference.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\obj\Debug\Volador.csproj.CoreCompileInputs.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\obj\Debug\Volador.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Volador\obj\Debug\Volador.pdb
