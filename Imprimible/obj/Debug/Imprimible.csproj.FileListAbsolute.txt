@@ -1,0 +1,7 @@
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\bin\Debug\Imprimible.exe.config
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\bin\Debug\Imprimible.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\bin\Debug\Imprimible.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\obj\Debug\Imprimible.csproj.AssemblyReference.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\obj\Debug\Imprimible.csproj.CoreCompileInputs.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\obj\Debug\Imprimible.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Imprimible\obj\Debug\Imprimible.pdb
