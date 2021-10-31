@@ -1,0 +1,9 @@
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\bin\Debug\Inmueble.exe.config
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\bin\Debug\Inmueble.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\bin\Debug\Inmueble.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.csproj.AssemblyReference.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.csproj.CoreCompileInputs.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.Inmobiliaria.resources
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Inmueble\obj\Debug\Inmueble.csproj.GenerateResource.cache
