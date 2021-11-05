@@ -1,0 +1,9 @@
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\bin\Debug\Tienda_Ropa.exe.config
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\bin\Debug\Tienda_Ropa.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\bin\Debug\Tienda_Ropa.pdb
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.csproj.AssemblyReference.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.Carrito.resources
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.csproj.GenerateResource.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.csproj.CoreCompileInputs.cache
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.exe
+E:\FACULTAD-PROG-OTRO\UDA\2do SEMESTRE\Laboratorio 2\Ejercicios\Tienda_Ropa\obj\Debug\Tienda_Ropa.pdb
